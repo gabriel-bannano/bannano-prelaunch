@@ -45,7 +45,7 @@ export default function Home() {
             </h3>
             <hr className={styles.cardseparator}></hr>
             <p className={styles.cardtext}>
-              Join our empowering community of top talent. Let's raise the bar together for better recruitment experiences! :)
+              Join our empowering community of top talent. Let&apos;s raise the bar together for better recruitment experiences! :)
             </p>
           </div>
           <div className={[styles.card, styles.cardsecond].join(" ")}>
