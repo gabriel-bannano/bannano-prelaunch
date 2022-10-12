@@ -13,7 +13,7 @@ export default function Home() {
 
       <header className={styles.header}>
         <div className={styles.logo}>
-          <Image src="/images/logo.png" alt="Bannano Logo" width={792} height={410} layout="responsive" />
+          <Image src="./images/logo.png" alt="Bannano Logo" width={792} height={410} layout="responsive" />
         </div>
       </header>
 
@@ -27,7 +27,7 @@ export default function Home() {
         <a className={styles.button} href="https://dev-back.bannanoapp.io/auth/linkedin">
           <div className={styles.buttoncontent}>
             <span className={styles.buttonicon}>
-              <img src="/images/linkedin_icon.png" alt="LinkedIn icon" />
+              <img src="./images/linkedin_icon.png" alt="LinkedIn icon" />
             </span>
             <span className={styles.buttontext}>
               Connect my LinkedIn account
