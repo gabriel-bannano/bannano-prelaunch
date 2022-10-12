@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  /*background: linear-gradient(89.65deg, #004368 24.05%, rgba(0, 67, 104, 0) 82.28%);*/
+  /*background-color: #004368;*/
+  background-color: #8FEDDC;
+  background-image: url('/images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
