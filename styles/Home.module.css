@@ -1,9 +1,12 @@
 .container {
-  padding: 0 2rem;
+  /*padding: 0 2rem;*/
+  max-width: 1282px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .header {
-  padding: 20px 0;
+  padding: 50px 45px 20px;
 }
 .logo {
   max-width: 150px;
@@ -29,6 +32,7 @@
   font-weight: normal;
   max-width: 452px;
   width: 100%;
+  margin: 0;
 }
 .description {
   color: #FFFFFF;

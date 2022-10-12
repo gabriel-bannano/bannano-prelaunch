@@ -9,7 +9,7 @@ body {
   background-color: #8FEDDC;
   background-image: url('/bannano-prelaunch/images/background.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 
 a {
